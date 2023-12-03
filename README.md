@@ -1,3 +1,8 @@
+# Modifications in this fork
+These changes add api support to Video-LLaMA. An example of how these apis can be called can be found in [api_utils.py](https://github.com/mattt-dc/Video-MLGenerator/blob/main/api_utils.py) in [Video-MLGenerator](https://github.com/mattt-dc/Video-MLGenerator). 
+
+
+
 <p align="center" width="100%">
 <a target="_blank"><img src="figs/video_llama_logo.jpg" alt="Video-LLaMA" style="width: 50%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
